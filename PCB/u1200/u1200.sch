@@ -18710,30 +18710,36 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <segment>
 <pinref part="U6A" gate="G$1" pin="A15"/>
 <wire x1="170.18" y1="96.52" x2="187.96" y2="96.52" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="U6A" gate="G$1" pin="A17"/>
-<wire x1="170.18" y1="91.44" x2="187.96" y2="91.44" width="0.1524" layer="91"/>
+<label x="180.34" y="96.52" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U6B" gate="G$1" pin="A15"/>
 <wire x1="243.84" y1="96.52" x2="259.08" y2="96.52" width="0.1524" layer="91"/>
+<label x="251.46" y="96.52" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="A18" class="0">
 <segment>
 <pinref part="U6A" gate="G$1" pin="A16"/>
 <wire x1="170.18" y1="93.98" x2="187.96" y2="93.98" width="0.1524" layer="91"/>
+<label x="180.34" y="93.98" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U6B" gate="G$1" pin="A16"/>
 <wire x1="243.84" y1="93.98" x2="259.08" y2="93.98" width="0.1524" layer="91"/>
+<label x="251.46" y="93.98" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="A19" class="0">
 <segment>
 <pinref part="U6B" gate="G$1" pin="A17"/>
 <wire x1="243.84" y1="91.44" x2="259.08" y2="91.44" width="0.1524" layer="91"/>
+<label x="251.46" y="91.44" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U6A" gate="G$1" pin="A17"/>
+<wire x1="170.18" y1="91.44" x2="187.96" y2="91.44" width="0.1524" layer="91"/>
+<label x="180.34" y="91.44" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
